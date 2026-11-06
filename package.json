@@ -1,0 +1,20 @@
+{
+  "name": "yesilcam-studio",
+  "version": "1.0.0",
+  "description": "Yeşilçam Studio for AI agents: check screenplays, make studio links, and an MCP server that drives the studio open in the browser.",
+  "type": "module",
+  "license": "UNLICENSED",
+  "bin": {
+    "yesilcam": "yesilcam.mjs"
+  },
+  "files": [
+    "yesilcam.mjs",
+    "llms.txt",
+    "get-started.md",
+    "agent",
+    "skills"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

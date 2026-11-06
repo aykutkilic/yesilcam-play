@@ -1,0 +1,26 @@
+# Yeşilçam Studio
+
+> A movie studio in the browser: paper cut-out characters, eleven-plus painted sets, ~320 objects, a living face with lip sync, a director that blocks scenes and lays out shots, post-production, MP4 export. Films are written as screenplays (a simple text format) and imported, or built through an MCP server that drives the open studio.
+
+Agent instructions: to make or change a film for a user, fetch https://aykutkilic.github.io/yesilcam-play/get-started.md and follow it. Use only the names in the reference pages below; the import reports anything it does not know.
+
+## Start
+- [Get started](https://aykutkilic.github.io/yesilcam-play/get-started.md): the steps for an agent, from the idea to a film open in the user's studio
+- [Screenplay format](https://aykutkilic.github.io/yesilcam-play/agent/screenplay.md): The text format the studio imports: acts, scenes, lines, stage directions, cues, camera notes, exact cues for looks, sets, objects, moves and acts
+- [Agent skill](https://aykutkilic.github.io/yesilcam-play/skills/yesilcam-film/SKILL.md): the same as a skill file (Claude Code, Codex, Cursor…)
+
+## Reference
+- [Sets](https://aykutkilic.github.io/yesilcam-play/agent/sets.md): The 22 sets (plateaus): ids, size, marks to walk to, times of day, music, objects that suit them
+- [Objects & vehicles](https://aykutkilic.github.io/yesilcam-play/agent/objects.md): The 322 objects that can be placed on a set, by category
+- [Characters](https://aykutkilic.github.io/yesilcam-play/agent/characters.md): Look fields and their values, accessories, resting faces, voices, personality traits, the stock characters
+- [Acting](https://aykutkilic.github.io/yesilcam-play/agent/acting.md): Moods, gestures, 64 expressions × levels, 158 poses, 13 walks, 24 two-person interactions
+- [Camera & editing](https://aykutkilic.github.io/yesilcam-play/agent/camera.md): Shot sizes, angles, lenses, moves, compositions, transitions and the cinema-school techniques
+- [Sound, music & effects](https://aykutkilic.github.io/yesilcam-play/agent/sound.md): 62 sound effects, 15 music moods, film looks, weather and events
+
+## Tools
+- [MCP server](https://aykutkilic.github.io/yesilcam-play/agent/mcp.md): Connect an agent to the studio open in the browser: install, pairing, tools
+- CLI: `npx -y github:aykutkilic/yesilcam-play check film.txt` (validate a screenplay), `npx -y github:aykutkilic/yesilcam-play link film.txt` (a link that opens it in the studio), `npx -y github:aykutkilic/yesilcam-play catalog sets` (print a reference page), `npx -y github:aykutkilic/yesilcam-play mcp` (the MCP server). Or download https://aykutkilic.github.io/yesilcam-play/yesilcam.mjs and run it with node (18+, no dependencies).
+
+## Optional
+- [The studio](https://aykutkilic.github.io/yesilcam-play/): open it in a browser
+- Project files: the studio saves a film as a .yesilcam JSON file (💾 in Films); the MCP tools read and write scenes in the same JSON

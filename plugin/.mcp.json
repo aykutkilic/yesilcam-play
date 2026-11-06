@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "yesilcam": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "github:aykutkilic/yesilcam-play",
+        "mcp"
+      ]
+    }
+  }
+}

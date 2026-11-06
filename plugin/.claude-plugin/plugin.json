@@ -1,0 +1,6 @@
+{
+  "name": "yesilcam",
+  "version": "1.0.0",
+  "description": "Yeşilçam Studio for AI agents: check screenplays, make studio links, and an MCP server that drives the studio open in the browser.",
+  "homepage": "https://aykutkilic.github.io/yesilcam-play/"
+}

@@ -1,0 +1,131 @@
+# Sound, music & effects
+
+## Sound effects ([SFX: id])
+
+- `door-knock` 🚪 Knock knock
+- `door-slam` 💥 Door slam
+- `door-creak` 🚪 Creaky door
+- `footsteps` 👞 Footsteps
+- `running` 🏃 Running feet
+- `applause` 👏 Applause
+- `laugh-crowd` 😂 Audience laugh
+- `gasp-crowd` 😮 Crowd gasp
+- `cheer` 🎉 Crowd cheer
+- `boo` 👎 Booing
+- `phone-ring` ☎️ Old phone ring
+- `doorbell` 🔔 Doorbell
+- `clock-tick` 🕰️ Clock ticking
+- `clock-chime` 🕛 Clock chime
+- `glass-break` 🍷 Glass breaking
+- `crash` 💥 Crash!
+- `punch` 👊 Punch
+- `slap` 🖐️ Slap
+- `boing` 🌀 Boing
+- `slide-whistle` 🎺 Slide whistle
+- `drum-roll` 🥁 Drum roll
+- `rimshot` 🥁 Ba-dum-tss
+- `sad-trombone` 🎺 Sad trombone
+- `ta-da` 🎊 Ta-da!
+- `explosion` 💣 Explosion
+- `cannon` 🔫 Cannon / gunshot
+- `thunder` ⛈️ Thunder
+- `wind-gust` 🌬️ Wind gust
+- `car-horn` 🚗 Car horn
+- `car-engine` 🚙 Car engine
+- `tram-bell` 🚋 Tram bell
+- `ship-horn` 🚢 Ship horn
+- `plane-flyby` ✈️ Plane fly-by
+- `rocket-launch` 🚀 Rocket launch
+- `laser` 🔫 Laser zap
+- `teleport` 🌀 Teleport
+- `robot-beep` 🤖 Robot beeps
+- `magic-chime` ✨ Magic chime
+- `ghost-wail` 👻 Ghost wail
+- `owl-hoot` 🦉 Owl hoot
+- `wolf-howl` 🐺 Wolf howl
+- `rooster` 🐓 Rooster
+- `moo` 🐄 Cow moo
+- `bark` 🐕 Dog bark
+- `meow` 🐈 Cat meow
+- `baa` 🐑 Sheep baa
+- `bird-chirp` 🐦 Birds chirping
+- `seagulls` 🕊️ Seagulls
+- `splash` 💦 Splash
+- `whoosh` 💨 Whoosh
+- `pop` 🫧 Pop
+- `heartbeat` 💓 Heartbeat
+- `typewriter` ⌨️ Typewriter
+- `camera-shutter` 📸 Camera click
+- `ding` 🛎️ Ding!
+- `kiss` 💋 Smooch
+- `snore` 😴 Snore
+- `siren` 🚨 Siren
+- `church-bell` 🔔 Big bell
+- `coin` 🪙 Coin
+- `record-scratch` 💿 Record scratch
+- `gong` 🥁 Gong
+
+## Music ([MUSIC: mood])
+
+- `nostalgia` Yeşilçam nostalgia
+- `comedy` Comedy bounce
+- `romance` Romance
+- `tension` Tension
+- `action` Action chase
+- `sad` Sad piano
+- `mystery` Mystery
+- `epic` Epic
+- `space` Space synth
+- `spooky` Spooky
+- `jazz` Café jazz
+- `bazaar` Bazaar (Hicaz)
+- `ragtime` Silent-film piano (ragtime)
+- `silent-drama` Silent-film piano (drama)
+- `country` Country fiddle
+- `none` silence
+
+## Looks and weather over a scene ([FX: id])
+
+- `sepia` 📜 Sepia flashback: Warm brown memories: the classic flashback.
+- `noir` 🕵️ Film noir: Black and white with crushed shadows: crime, rain, secrets.
+- `bw` 🎞️ Black & white: Old Yeşilçam stock, no colour.
+- `seventies` 🟠 70s film: Faded, warm, grainy colour stock with flicker and dust — Yeşilçam in its golden age.
+- `oldfilm` 🎩 Silent film: Scratched, flickering black and white from the 1920s.
+- `handtint` 🖌️ Hand-tinted 1900s: Early cinema stock coloured by hand: soft sepia, gentle washed colours, flicker, dust and scratches.
+- `dream` ☁️ Dream: Soft glow, lifted blacks, a little wobble.
+- `vhs` 📼 VHS tape: Scan lines, colour bleed and tracking noise.
+- `cold` 🧊 Cold blue: Steel-blue grade for loneliness, night, sci-fi.
+- `warm` 🌅 Golden hour: Warm, saturated, romantic.
+- `bleach` ⚔️ Bleach bypass: Low saturation, high contrast: war films.
+- `technicolor` 🌈 Technicolor: Candy-bright colour of old musicals.
+- `nightvision` 🟢 Night vision: Green goggles with sensor noise.
+- `thermal` 🌡️ Thermal camera: Heat-map colours.
+- `underwater` 🌊 Underwater: Wavy, blue-green, dim.
+- `comic` 💥 Comic book: Posterised colours with halftone dots.
+- `horror` 🩸 Horror: Sick green-grey, deep vignette.
+- `negative` 🔄 Negative: Inverted colours (a vision, a shock).
+- `glow` ✨ Soft glow: Bright parts bleed light.
+- `rain` 🌧️ Rain: Slanted rain streaks over the frame.
+- `storm` ⛈️ Thunderstorm: Heavy rain with lightning flashes now and then.
+- `snow` ❄️ Snow: Gentle snowfall.
+- `dust` 🌫️ Dust motes: Specks of dust floating in a sunbeam.
+- `embers` 🔥 Embers: Glowing sparks rising (fire, battle, a forge).
+- `leaves` 🍂 Falling leaves: Autumn leaves drifting down.
+- `confetti` 🎉 Confetti: A party! Colourful paper falling.
+- `petals` 🌹 Rose petals: Romance: petals drifting through the air.
+- `bubbles` 🫧 Bubbles: Rising bubbles (underwater, magic, soap).
+- `fog` 🌁 Fog: Low rolling fog banks.
+- `stars` ⭐ Twinkling stars: Sparkles across the screen (magic, wonder).
+- `speedlines` 💨 Speed lines: Anime-style lines for speed and shock.
+
+## Events at a moment ([VFX: id])
+
+- `explosion` 💥 Explosion: A cartoon blast with a white flash and smoke.
+- `lightning` ⚡ Lightning strike: A bolt from the sky and a flash.
+- `magic` 🪄 Magic sparkle: A swirl of sparkles (spells, wishes, appearing).
+- `smoke` 💨 Smoke puff: A cartoon puff of smoke (vanish, appear, crash).
+- `hearts` 💕 Floating hearts: Love at first sight.
+- `dizzy` 😵‍💫 Dizzy stars: Stars circling a bonked head.
+- `impact` 💢 Comic impact: POW! A comic burst.
+- `flashbang` ⚪ White flash: A blinding white-out (memory, shock, a camera flash).
+- `blackout` ⚫ Blackout: The lights go out.
